@@ -1,5 +1,7 @@
 # Ejercicio
 
+link <a href="https://angry-saha-5ad827.netlify.app/">Resuelto</a>
+
 1. Hacer una card como la dispuesta a continuacion (Avatar, titulo, subtitulo )
 
 <img src="./imagesExampleCard/FirstChallenge.png" width="400px">
